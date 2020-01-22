@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146125793236",
+    "firebase_url": "https://seams-image-caputring.firebaseio.com",
+    "project_id": "seams-image-caputring",
+    "storage_bucket": "seams-image-caputring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146125793236:android:928b571ce372f495",
+        "android_client_info": {
+          "package_name": "com.sarai.seams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146125793236-951jab64oiq4rpl55v5qdbtffacu0cje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSL8SmdTqhMpvt7fj7OLW9emfTanCBCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146125793236-951jab64oiq4rpl55v5qdbtffacu0cje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
